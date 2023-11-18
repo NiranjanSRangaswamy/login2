@@ -211,3 +211,6 @@ input{
 #l,#s{
     cursor: pointer;
 }
+.center{
+    padding: 0;
+}
